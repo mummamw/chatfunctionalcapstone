@@ -1,0 +1,1 @@
+web: cd socket.io-master; npm install; cd examples/chat; npm install; node.
